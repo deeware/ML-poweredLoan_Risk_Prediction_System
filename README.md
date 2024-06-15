@@ -1,5 +1,6 @@
 # ML-poweredLoan_Risk_Prediction_System
-Smarter Lending Decisions: ML-powered Loan Prediction
+$ Smarter Lending Decisions: ML-powered Loan Prediction $
+
 In today's dynamic financial landscape, accurately assessing creditworthiness is key to mitigating risk for lending institutions. With the power of machine learning, one can venture into the realm of loan prediction, offering cutting-edge solutions for smarter, more sustainable lending practices.
 
 The ability to predict whether a loan applicant will default or repay their loan is vital for lending institutions. Leveraging advancements in technology and the abundance of data, machine learning models have emerged as robust tools, surpassing traditional statistical approaches in accuracy and efficiency.
