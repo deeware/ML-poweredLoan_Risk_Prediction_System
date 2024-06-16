@@ -32,8 +32,8 @@ def predict_api():
 
 @app.route('/predict',methods=['GET','POST'])
 def predict():
-    data=[float(x) for x in list(request.form.values())]
-    final_input=scalar.transform(np.array(data[1:]).reshape(1,-1))
+    data=[float(x) for x in list(request.form.values())[1:]]
+    final_input=scalar.transform(np.array(data).reshape(1,-1))
     print(final_input)
     output=model.predict(final_input)[0]
     print(output)
