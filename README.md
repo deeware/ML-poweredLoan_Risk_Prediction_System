@@ -15,7 +15,7 @@ The project isn't just about predictions; it's an expedition into revolutionizin
 
 ## Links
 
-- Dataset (from kaggle): https://www.kaggle.com/code/anivalogy/loan-dataset
-- Web App (deployed on Render.com): https://loan-risk-prediction-system.onrender.com
+- Dataset : [kaggle](https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior)
+- Web App (deployed on [Render](https://render.com/)): [Loan Risk Prediction System](https://loan-risk-prediction-system.onrender.com/)
   >Note : As the Application is deployed under free plan; the instances spin down with inactivity, which can delay requests by 50 seconds or more. 
   
